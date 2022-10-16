@@ -7,7 +7,7 @@ siguiente menú de opciones:
 3.-Mostrar dinero disponible.
 4.-salir.
 '''
-# \t 4 espacios al iniciar el mensaje (tabulación).
+
 saldo = 1000
 while True:
     print("\t.        :Menú:. ")
